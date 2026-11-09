@@ -1,0 +1,15 @@
+backbone,domain,attack,asr_baseline,asr_pqaib,reduction_pct
+deepseek-v4-flash,all,Spoofing,1.0000,0.0000,100.0
+deepseek-v4-flash,all,Cloaking,1.0000,0.0000,100.0
+deepseek-v4-flash,all,CycleOverflow,1.0000,0.0000,100.0
+deepseek-v4-flash,all,TaskFlooding,1.0000,0.0000,100.0
+deepseek-v4-flash,all,ASRF,1.0000,0.0000,100.0
+deepseek-v4-flash,all,ATSI,1.0000,0.0000,100.0
+deepseek-v4-flash,all,ConfusedDeputy,1.0000,0.0000,100.0
+deepseek-v4-flash,travel,Spoofing,1.0000,0.0000,100.0
+deepseek-v4-flash,travel,Cloaking,1.0000,0.0000,100.0
+deepseek-v4-flash,travel,CycleOverflow,1.0000,0.0000,100.0
+deepseek-v4-flash,travel,TaskFlooding,1.0000,0.0000,100.0
+deepseek-v4-flash,travel,ASRF,1.0000,0.0000,100.0
+deepseek-v4-flash,travel,ATSI,1.0000,0.0000,100.0
+deepseek-v4-flash,travel,ConfusedDeputy,1.0000,0.0000,100.0

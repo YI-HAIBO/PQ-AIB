@@ -1,0 +1,8 @@
+attack,asr_baseline,asr_pq_aib
+Spoofing,1.0,0.0
+Cloaking,0.59,0.0
+CycleOverflow,1.0,0.0
+TaskFlooding,1.0,0.0
+ASRF,0.59,0.0
+ATSI,0.59,0.0
+ConfusedDeputy,0.59,0.0

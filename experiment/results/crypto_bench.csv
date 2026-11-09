@@ -1,0 +1,4 @@
+scheme,sk_bytes,pk_bytes,sig_bytes,sign_ms,verify_ms
+Ed25519 (classic),32,32,64,0.0525,0.1217
+ECDSA-P256 (classic),241,178,71,0.0327,0.0742
+Dilithium (PQ),run in GPU env (oqs),see adapter,see adapter,see adapter,see adapter

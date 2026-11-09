@@ -1,0 +1,7 @@
+attack,block,total,block_rate
+ASRF,0,200,0.0
+ATSI,0,200,0.0
+Cloaking,0,200,0.0
+CycleOverflow,0,200,0.0
+Spoofing,0,100,0.0
+TaskFlooding,0,200,0.0

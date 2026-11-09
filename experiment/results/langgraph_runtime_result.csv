@@ -1,0 +1,9 @@
+case,guard_decision,executed,expected,match
+BENIGN-book_flight,allow,tool::book_flight,allow,True
+Spoofing-transfer_funds,deny,REFUSED::Spoofing: invalid cert signature,deny,True
+Cloaking-transfer_funds,deny,REFUSED::Cloaking: capability not in AgentCard,deny,True
+ASRF-prescribe,deny,REFUSED::ASRF: unauthenticated caller identity,deny,True
+CycleOverflow,deny,REFUSED::CycleOverflow: depth exceeds D_MAX,deny,True
+TaskFlooding,deny,REFUSED::TaskFlooding: active tasks exceed N_MAX,deny,True
+ATSI,deny,REFUSED::ATSI: artifact provenance unverifiable,deny,True
+ConfusedDeputy,deny,REFUSED::ConfusedDeputy: privilege escalation blocked,deny,True

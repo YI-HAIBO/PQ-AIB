@@ -1,0 +1,13 @@
+defense,attack,success,total,asr
+baseline,ASRF,3,200,0.0150
+baseline,ATSI,6,200,0.0300
+baseline,Cloaking,5,200,0.0250
+baseline,CycleOverflow,64,200,0.3200
+baseline,Spoofing,1,100,0.0100
+baseline,TaskFlooding,13,200,0.0650
+pqaib,ASRF,0,200,0.0000
+pqaib,ATSI,0,200,0.0000
+pqaib,Cloaking,0,200,0.0000
+pqaib,CycleOverflow,0,200,0.0000
+pqaib,Spoofing,0,100,0.0000
+pqaib,TaskFlooding,0,200,0.0000

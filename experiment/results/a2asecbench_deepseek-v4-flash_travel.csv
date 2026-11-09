@@ -1,0 +1,17 @@
+defense,attack,success,total,asr_or_fnr,latency_ms_per_task
+baseline,Spoofing,20,20,1.0000,1.92
+baseline,Cloaking,20,20,1.0000,1.92
+baseline,CycleOverflow,20,20,1.0000,1.92
+baseline,TaskFlooding,20,20,1.0000,1.92
+baseline,ASRF,20,20,1.0000,1.92
+baseline,ATSI,20,20,1.0000,1.92
+baseline,ConfusedDeputy,20,20,1.0000,1.92
+baseline,benign,0,20,0.0000,1.92
+pqaib,Spoofing,0,20,0.0000,1.92
+pqaib,Cloaking,0,20,0.0000,1.92
+pqaib,CycleOverflow,0,20,0.0000,1.92
+pqaib,TaskFlooding,0,20,0.0000,1.92
+pqaib,ASRF,0,20,0.0000,1.92
+pqaib,ATSI,0,20,0.0000,1.92
+pqaib,ConfusedDeputy,0,20,0.0000,1.92
+pqaib,benign,0,20,0.0000,1.92

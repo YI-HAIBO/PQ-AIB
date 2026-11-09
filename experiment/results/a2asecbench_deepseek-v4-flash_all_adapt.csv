@@ -1,0 +1,15 @@
+defense,attack,success,total,asr_adapt
+baseline,Spoofing,60,60,1.0000
+baseline,Cloaking,60,60,1.0000
+baseline,CycleOverflow,60,60,1.0000
+baseline,TaskFlooding,60,60,1.0000
+baseline,ASRF,60,60,1.0000
+baseline,ATSI,60,60,1.0000
+baseline,ConfusedDeputy,60,60,1.0000
+pqaib,Spoofing,0,60,0.0000
+pqaib,Cloaking,0,60,0.0000
+pqaib,CycleOverflow,0,60,0.0000
+pqaib,TaskFlooding,0,60,0.0000
+pqaib,ASRF,0,60,0.0000
+pqaib,ATSI,0,60,0.0000
+pqaib,ConfusedDeputy,0,60,0.0000

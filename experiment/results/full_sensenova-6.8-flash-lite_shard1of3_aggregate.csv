@@ -1,0 +1,13 @@
+defense,attack,success,total,asr
+baseline,ASRF,0,1,0.0000
+baseline,CycleOverflow,0,2,0.0000
+baseline,Spoofing,0,1,0.0000
+baseline,TaskFlooding,0,3,0.0000
+pqaib,ASRF,0,1,0.0000
+pqaib,CycleOverflow,0,2,0.0000
+pqaib,Spoofing,0,1,0.0000
+pqaib,TaskFlooding,0,3,0.0000
+baseline_adapt,ASRF,1,1,1.0000
+baseline_adapt,CycleOverflow,1,2,0.5000
+baseline_adapt,Spoofing,0,1,0.0000
+baseline_adapt,TaskFlooding,1,3,0.3333

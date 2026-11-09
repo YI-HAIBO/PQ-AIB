@@ -1,0 +1,10 @@
+defense,attack,success,total,asr
+baseline,ASRF,1,1,1.0000
+baseline,Cloaking,1,1,1.0000
+baseline,Spoofing,0,1,0.0000
+pqaib,ASRF,0,1,0.0000
+pqaib,Cloaking,0,1,0.0000
+pqaib,Spoofing,0,1,0.0000
+baseline_adapt,ASRF,1,1,1.0000
+baseline_adapt,Cloaking,1,1,1.0000
+baseline_adapt,Spoofing,1,1,1.0000

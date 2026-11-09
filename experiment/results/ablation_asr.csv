@@ -1,0 +1,65 @@
+config,attack,success,total,asr
+full,Spoofing,0,200,0.0000
+full,Cloaking,0,200,0.0000
+full,CycleOverflow,0,200,0.0000
+full,TaskFlooding,0,200,0.0000
+full,ASRF,0,200,0.0000
+full,ATSI,0,200,0.0000
+full,ConfusedDeputy,0,200,0.0000
+full,Revoked,0,200,0.0000
+w/o PQ,Spoofing,200,200,1.0000
+w/o PQ,Cloaking,0,200,0.0000
+w/o PQ,CycleOverflow,0,200,0.0000
+w/o PQ,TaskFlooding,0,200,0.0000
+w/o PQ,ASRF,0,200,0.0000
+w/o PQ,ATSI,0,200,0.0000
+w/o PQ,ConfusedDeputy,0,200,0.0000
+w/o PQ,Revoked,0,200,0.0000
+w/o Blockchain,Spoofing,0,200,0.0000
+w/o Blockchain,Cloaking,0,200,0.0000
+w/o Blockchain,CycleOverflow,0,200,0.0000
+w/o Blockchain,TaskFlooding,0,200,0.0000
+w/o Blockchain,ASRF,0,200,0.0000
+w/o Blockchain,ATSI,0,200,0.0000
+w/o Blockchain,ConfusedDeputy,0,200,0.0000
+w/o Blockchain,Revoked,200,200,1.0000
+w/o Identity,Spoofing,0,200,0.0000
+w/o Identity,Cloaking,0,200,0.0000
+w/o Identity,CycleOverflow,0,200,0.0000
+w/o Identity,TaskFlooding,0,200,0.0000
+w/o Identity,ASRF,200,200,1.0000
+w/o Identity,ATSI,0,200,0.0000
+w/o Identity,ConfusedDeputy,0,200,0.0000
+w/o Identity,Revoked,0,200,0.0000
+w/o Progress,Spoofing,0,200,0.0000
+w/o Progress,Cloaking,0,200,0.0000
+w/o Progress,CycleOverflow,200,200,1.0000
+w/o Progress,TaskFlooding,200,200,1.0000
+w/o Progress,ASRF,0,200,0.0000
+w/o Progress,ATSI,0,200,0.0000
+w/o Progress,ConfusedDeputy,0,200,0.0000
+w/o Progress,Revoked,0,200,0.0000
+w/o ABAC,Spoofing,0,200,0.0000
+w/o ABAC,Cloaking,200,200,1.0000
+w/o ABAC,CycleOverflow,0,200,0.0000
+w/o ABAC,TaskFlooding,0,200,0.0000
+w/o ABAC,ASRF,0,200,0.0000
+w/o ABAC,ATSI,0,200,0.0000
+w/o ABAC,ConfusedDeputy,200,200,1.0000
+w/o ABAC,Revoked,0,200,0.0000
+w/o Provenance,Spoofing,0,200,0.0000
+w/o Provenance,Cloaking,0,200,0.0000
+w/o Provenance,CycleOverflow,0,200,0.0000
+w/o Provenance,TaskFlooding,0,200,0.0000
+w/o Provenance,ASRF,0,200,0.0000
+w/o Provenance,ATSI,200,200,1.0000
+w/o Provenance,ConfusedDeputy,0,200,0.0000
+w/o Provenance,Revoked,0,200,0.0000
+baseline,Spoofing,200,200,1.0000
+baseline,Cloaking,200,200,1.0000
+baseline,CycleOverflow,200,200,1.0000
+baseline,TaskFlooding,200,200,1.0000
+baseline,ASRF,200,200,1.0000
+baseline,ATSI,200,200,1.0000
+baseline,ConfusedDeputy,200,200,1.0000
+baseline,Revoked,200,200,1.0000

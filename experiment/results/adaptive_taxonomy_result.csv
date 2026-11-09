@@ -1,0 +1,11 @@
+strategy,variant,decision,reason,expected,match
+benign,legit-book_flight,allow,ok,allow,True
+param-rewrite,s1-cap-variant,deny,Cloaking: capability not in AgentCard,deny,True
+encoding-evasion,s2-unicode-cap,deny,Cloaking: capability not in AgentCard,deny,True
+multi-turn,s3-induced-transfer,deny,Cloaking: capability not in AgentCard,deny,True
+context-camouflage,s4-camouflage,deny,CycleOverflow: depth exceeds D_MAX,deny,True
+iterative,s5-adjust-then-flood,deny,TaskFlooding: active tasks exceed N_MAX,deny,True
+hybrid,s6-encode+camo+escalate,deny,Cloaking: capability not in AgentCard,deny,True
+resource-probe,s7-cycle-max,deny,CycleOverflow: depth exceeds D_MAX,deny,True
+priv-escalation,s8-confused-deputy,deny,ConfusedDeputy: privilege escalation blocked,deny,True
+spoof-iterate,s8b-reforge-cert,deny,Spoofing: invalid cert signature,deny,True
